@@ -4,7 +4,7 @@ Team Project for Hackfest 2k22 Hackathon.
 <h3>Team Name : WEB DEMONS</h3>
 <h4> Team members : </h4>
 Bhimesh Agrawal (BACKEND AND INTEGRATION) <br/>
-Shubham Singh (FRONTEND AND INTEGRATION) <br/>
+Raja Keshri (FRONTEND AND INTEGRATION) <br/>
 Akash Mittal (FRONTEND) <br/>
 Syed Areeb (ML) <br/>
 Shubham Kurrey (UI/UX) <br/>
